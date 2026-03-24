@@ -1,14 +1,34 @@
-About Me
-My name is Phuc Nguyen, and I hold a degree in Computer Science. I’m deeply interested in building software and exploring how technology can be applied to solve real-world problems. I enjoy learning new concepts, experimenting with ideas, and continuously pushing my technical limits.
+# 👋 Hi, I'm **Phuc Nguyen**
 
-Technical Skills
+## 🚀 About Me
+I am a **Computer Science graduate** with a strong interest in **software development** and modern technology.  
+I enjoy transforming ideas into real applications and continuously improving my skills through hands-on experience and problem-solving.
 
-Languages: C#, Java, Python
-Databases: SQL
-Environment & Tools: Git, Linux
+---
 
-What I Do
-I like working on hands-on projects where I can turn ideas into working solutions. Whether it’s developing applications or experimenting with new technologies, I focus on writing clean, efficient code and improving my problem-solving skills.
+## 🛠️ Technical Skills
 
-Get in Touch
-I’m open to new opportunities, collaborations, and meaningful tech discussions. Feel free to reach out if you’d like to connect or work together.
+### 💻 Programming Languages
+- **C#**
+- **Java**
+- **Python**
+
+### 🗄️ Database
+- **SQL**
+
+### ⚙️ Tools & Environment
+- **Git**
+- **Linux**
+
+---
+
+## 🔥 What I Do
+- Build practical applications and explore new technologies  
+- Focus on writing **clean, efficient, and maintainable code**  
+- Continuously learn and improve through real-world projects  
+
+---
+
+## 🤝 Let's Connect
+I am always open to **collaboration**, **new opportunities**, and **tech discussions**.  
+Feel free to reach out if you want to work together or share ideas!
